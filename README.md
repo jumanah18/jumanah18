@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Jumanah, and here you can find everything I have worked on!
 
-##🔧 Skills
+## 🔧 Skills
 - Java, Python, SQL
 
 ## 📫 Contact Me
