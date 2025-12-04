@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm Jumanah, and here you can find everything I have worked on!
+
+##🔧 Skills
+- Java, Python, SQL
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/jumanah-alhareth-1a09b1282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+ 
 
 <!--
 **jumanah18/jumanah18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
