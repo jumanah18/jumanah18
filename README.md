@@ -8,7 +8,7 @@ I'm Jumanah, and here you can find everything I have worked on!
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jumanah-alhareth-1a09b1282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 <!--
 **jumanah18/jumanah18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
