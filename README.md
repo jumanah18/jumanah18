@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumanah18&label=Profile%20views&color=0e75b6&style=flat" alt="jumanah18" /> </p>
 
-- 🌱 I'm currently learning **AI/ML, Software Engineering, and UI/UX.**
+- I'm currently learning **AI/ML, Software Engineering, and UI/UX.**
 
-- 👨‍💻 All of my projects are available at [github.com/jumanah18](https://github.com/jumanah18?tab=repositories)
+- All of my projects are available at [github.com/jumanah18](https://github.com/jumanah18?tab=repositories)
 
 - 📫 How to reach me **jumanahmulfi1@gmail.com**
 
