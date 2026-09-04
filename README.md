@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jumanah Alhareth</h1>
 <h3 align="center">Computer Science student who is interested in AI/ML projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jumanah18&label=Profile%20views&color=0e75b6&style=flat" alt="jumanah18" /> </p>
-
-- I'm currently learning **AI/ML, Software Engineering, and UI/UX.**
+- I'm currently learning **AI/ML and Software Engineering.**
 
 - All of my projects are available at [github.com/jumanah18](https://github.com/jumanah18?tab=repositories)
 
@@ -36,9 +34,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jumanah18&show_icons=true&locale=en&layout=compact" alt="jumanah18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jumanah18&show_icons=true&locale=en" alt="jumanah18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumanah18&" alt="jumanah18" /></p>
